@@ -1,0 +1,9 @@
+1. git checkout - b
+
+2. Fast-forward merge can only happen if there haven't been any commits on the original branch while the new branch is being worked on.
+
+3. git checkout
+
+4. git branch -d or -D
+
+5. When Git can't determine what file or folder to choose when merging because of different commits with changes to a file with the same name.
